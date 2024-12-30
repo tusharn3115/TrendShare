@@ -11,7 +11,7 @@ export function Header() {
         </div>
         
         <div className="flex items-center space-x-4 sm:space-x-6">
-          <a href="/" target="_blank" rel="noopener noreferrer" 
+          <a href="https://github.com/tusharn3115/TrendShare" target="_blank" rel="noopener noreferrer" 
              className="flex items-center space-x-2 text-gray-300 hover:text-white transition-colors">
             <Star className="h-5 w-5" />
             <span className="hidden sm:inline font-mono">Star on Github</span>
